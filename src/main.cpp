@@ -35,8 +35,11 @@ improvements, issues on Github: https://github.com/rin67630/NaTLibESP
 #include <time.h>
 #endif
 
-#define WIFI_SSID "Obernburg1"
-#define WIFI_PASS "Sabine.Obernburg"
+#define WIFI_SSID "zuhause"
+#define WIFI_PASS "schmitt.obw@web.de"
+//#define WIFI_SSID "Obernburg1"
+//#define WIFI_PASS "Sabine.Obernburg"
+
 #define HOST_NAME "ESP-IoT"
 #define NTP_SERVER "de.pool.ntp.org"
 
